@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<body style="background-color:#ffffff;">
+<font color="black">
+
+<!-- Format and styling loosely following Takahashi's "Monolith: A Monolithic Pressure-Viscosity-Contact Solver for Strong Two-Way Rigid-Rigid Rigid-Fluid Coupling" project page. -->
+
+  <head>
+    <meta charset="utf-8">
+    <title>A Unified Simplicial Model for Mixed-Dimensional and Non-Manifold Deformable Elastic Objects</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="A Unified Simplicial Model for Mixed-Dimensional and Non-Manifold Deformable Elastic Objects">
+    <meta name="author" content="Jumyung Chang">
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+  </head>
+
+  <body >
+      <div class="container custom-container">
+        <br>
+        <h1 class="title-text" style="text-align:center">A Unified Simplicial Model for Mixed-Dimensional and Non-Manifold Deformable Elastic Objects</h1>
+        <font size="4">
+        <p style="text-align:center" class="author-text">
+            <a href="https://jumyung-jc-chang.com/">Jumyung Chang</a>,
+            <a href="http://www.cs.columbia.edu/~fang/">Fang Da</a>,
+            <a href="https://www.dgp.toronto.edu/~eitan/">Eitan Grinspun</a>,
+            <a href="https://cs.uwaterloo.ca/~c2batty/">Christopher Batty</a>
+            <br>
+        </p>
+
+        <p align="center">
+        Proceedings of the ACM on Computer Graphics and Interactive Techniques (Symposium on Computer Animation) 2(2), 2019. <br>
+        </p>
+        
+        <div align="center">
+            <img src="https://cs.uwaterloo.ca/~j48chang/publications/unifiedElasticaSCA19.gif" style='height: 80%; width: 80%; object-fit: contain'>
+        </div>
+        <br />
+        
+        <hr />
+        <h3><p class="section-title-text">Abstract</p></h3>
+        <font size="4">
+        <p class="paragraph-text">
+        We present a unified method to simulate deformable elastic bodies
+        consisting of mixed-dimensional components represented with potentially
+        non-manifold simplicial meshes. Building on well-known simplicial rod, shell, and
+        solid models for elastic continua, we categorize and define a comprehensive palette expressing all
+        possible constraints and elastic energies for stiff and flexible
+        connections between the 1D, 2D, and 3D components of a single conforming simplicial
+        mesh. This palette consists of three categories: point
+        connections, in which simplices meet at a single vertex around which they
+        may twist and bend; curve connections in which simplices share an
+        edge around which they may rotate (bend) relative to one another; and
+        surface connections, in which a shell is embedded on or into a solid.  To define elastic behaviors across non-manifold point connections, we adapt and apply parallel transport concepts from elastic rods. To address discontinuous forces that would otherwise arise when large accumulated relative rotations wrap around in the space of angles, we develop an incremental angle-update strategy.  Our method provides a conceptually
+        simple, flexible, and highly expressive framework for designing complex elastic
+        objects, by modeling the geometry with a single simplicial mesh
+        and decorating its elements with appropriate physical models (rod, shell,
+        solid) and connection types (point, curve, surface). We demonstrate a
+        diverse set of possible interactions achievable with our method, through
+        technical and application examples, including scenes featuring complex aquatic creatures, children's toys, and umbrellas.
+        </p>
+    <hr />
+        
+        <h3><p class="section-title-text">Files</p></h3>
+
+        <p>
+            Paper:
+            <a href="https://cs.uwaterloo.ca/~j48chang/publications/unifiedElasticaSCA.pdf"> [PDF]  </a> <br/>
+            Video:
+            <a href="https://cs.uwaterloo.ca/~j48chang/publications/unifiedElasticaSCA.mp4">[MP4] </a>,
+            <a href="https://www.youtube.com/watch?v=SSrBEnh-dMI">[YouTube] </a> <br/>
+        </p>
+        <br>
+    <hr/>
+    
+    <h3><p class="section-title-text">BibTeX</p></h3>
+    <font size="2">
+        <pre>@article{Chang:2019:unifiedElastica,
+            author = {Chang, Jumyung and Da, Fang and Grinspun, Eitan and Batty, Christopher},
+            title = { A Unified Simplicial Model for Mixed-Dimensional and Non-Manifold Deformable Elastic Objects},
+            journal = {Proceedings of the ACM in Computer Graphics and Interactive Techniques},
+            issue_date = {July 2019},
+            volume = {2},
+            number = {2},
+            month = jul,
+            year = {2019},
+            issn = {},
+            pages = {1-18},
+            articleno = {11},
+            numpages = {18},
+            }
+        </pre>
+    <hr />
+
+    </div>
+
+</body>
+</html>
+  
