@@ -22,7 +22,7 @@ physics based animation (fluid, cloth, hair)
 **A Unified Simplicial Model for Mixed-Dimensional and Non-Manifold Deformable Elastic Objects**<br/>
 [***<u>Jumyung Chang</u>***](/), [<i>Fang Da</i>](http://www.cs.columbia.edu/~fang/), [<i>Eitan Grinspun</i>](https://www.dgp.toronto.edu/~eitan/), [<i>Christopher Batty</i>](https://cs.uwaterloo.ca/~c2batty/) <br/>
 *Proceedings of the ACM on Computer Graphics and Interactive Techniques (Symposium on Computer Animation) 2(2), 2019.* <br/>
-[[Project](./research/unifiedElasticaSCA19)]  [[Paper(PDF)](https://cs.uwaterloo.ca/~j48chang/publications/unifiedElasticaSCA.pdf)]  [[Video(MP4)](https://cs.uwaterloo.ca/~j48chang/publications/unifieidElasticaSCA.mp4)]  [[Video(YouTube)](https://youtu.be/SSrBEnh-dMI)]
+[[Project](./research/unifiedElasticaSCA19)]  [[Paper(PDF)](https://cs.uwaterloo.ca/~j48chang/publications/unifiedElasticaSCA.pdf)]  [[Video(MP4)](https://cs.uwaterloo.ca/~j48chang/publications/unifiedElasticaSCA.mp4)]  [[Video(YouTube)](https://youtu.be/SSrBEnh-dMI)]
 
 **Divergence-Free and Boundary-Respecting Velocity Interpolation Using Stream Functions**<br/>
 [***<u>Jumyung Chang</u>***](/), [<i>Vinicius C. Azevedo</i>](https://people.inf.ethz.ch/~vviniciu/), [<i>Christopher Batty</i>](https://cs.uwaterloo.ca/~c2batty/) <br/>
