@@ -16,7 +16,7 @@ physics based animation (fluid, cloth, hair)
 ---
 **Curl-Flow: Boundary-Respecting Pointwise Incompressible Velocity Interpolation for Grid-Based Fluids** <br/>
 [***<u>Jumyung Chang</u>***](/), <i>Ruben Partono</i>, [<i>Vinicius C. Azevedo</i>](https://people.inf.ethz.ch/~vviniciu/), [<i>Christopher Batty</i>](https://cs.uwaterloo.ca/~c2batty/) <br/>
-*ACM Transaction on Graphics (SIGGRAPH ASIA proceedings), Vol. 41, No. 6, 2022*
+*ACM Transaction on Graphics (SIGGRAPH ASIA proceedings), Vol. 41, No. 6, 2022* <br/>
 [[Project](./research/CurlFlowSA22)]  [[Paper(PDF)](https://cs.uwaterloo.ca/~j48chang/publications/Curl-Flow.pdf)]  [[Supplemental(PDF)](https://cs.uwaterloo.ca/~j48chang/publications/Curl-Flow_supplemental.pdf)]   [[Video(MP4)](https://cs.uwaterloo.ca/~j48chang/publications/Curl-Flow.mp4)]  [[Video(YouTube)](https://youtu.be/q1HkAwB_1eU)]
 
 **A Unified Simplicial Model for Mixed-Dimensional and Non-Manifold Deformable Elastic Objects**<br/>
