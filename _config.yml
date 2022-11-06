@@ -4,7 +4,7 @@ author: Jumyung "JC" Chang
 avatar: /images/profile2.jpeg
 email: jumyung.jc.chang@gmail.com
 location: Ontario, Canada
-baseurl: "home"
+baseurl:
 plugins:
   - jekyll-seo-tag
   - jekyll-feed
