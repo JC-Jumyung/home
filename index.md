@@ -14,9 +14,9 @@ physics based animation (fluid, cloth, hair)
 
 ## Publications
 ---
-[**Curl-Flow: Boundary-Respecting Pointwise Incompressible Velocity Interpolation for Grid-Based Fluids**](./research/CurlFlowSA22) <br/>
+**Curl-Flow: Boundary-Respecting Pointwise Incompressible Velocity Interpolation for Grid-Based Fluids** <br/>
 [***<u>Jumyung Chang</u>***](/), <i>Ruben Partono</i>, [<i>Vinicius C. Azevedo</i>](https://people.inf.ethz.ch/~vviniciu/), [<i>Christopher Batty</i>](https://cs.uwaterloo.ca/~c2batty/) <br/>
-*ACM Transaction on Graphics (SIGGRAPH ASIA proceedings), Vol. 41, No. 6, 2022* <br/>
+*ACM Transaction on Graphics (SIGGRAPH ASIA proceedings), Vol. 41, No. 6, 2022*
 [[Project](./research/CurlFlowSA22)]  [[Paper(PDF)](https://cs.uwaterloo.ca/~j48chang/publications/Curl-Flow.pdf)]  [[Supplemental(PDF)](https://cs.uwaterloo.ca/~j48chang/publications/Curl-Flow_supplemental.pdf)]   [[Video(MP4)](https://cs.uwaterloo.ca/~j48chang/publications/Curl-Flow.mp4)]  [[Video(YouTube)](https://youtu.be/q1HkAwB_1eU)]
 
 **A Unified Simplicial Model for Mixed-Dimensional and Non-Manifold Deformable Elastic Objects**<br/>
@@ -37,13 +37,17 @@ physics based animation (fluid, cloth, hair)
 ## Experiences
 ---
 
-***NVIDIA*** (OCT 2021 - Present) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Simulation Engineer, PhysX / Omniverse
+***NVIDIA*** (OCT 2021 - Present) <br/>
+Simulation Engineer, PhysX / Omniverse
 
-***NVIDIA*** (MAY 2020 - AUG 2020) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Simulation Intern, PhysX / Omniverse
+***NVIDIA*** (MAY 2020 - AUG 2020) <br/>
+Simulation Intern, PhysX / Omniverse
 
-***WETA DIGITAL*** (MAY 2020 - AUG 2020) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Simulation Intern
+***WETA DIGITAL*** (JAN 2017 - APR 2017) <br/>
+Simulation Intern
 
-***HYUNDAI MOTORS*** (Jan 2014 - November 2015) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Resaercher, Display
+***HYUNDAI MOTORS*** (Jan 2014 - November 2015) <br/>
+Resaercher, Graphics and Display
 
 
 <br/>
@@ -52,12 +56,8 @@ physics based animation (fluid, cloth, hair)
 
 ## Education
 ---
-***University of Waterloo***  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-PhD in Computer Science (2021)
+***University of Waterloo, PhD in CS***
 
-***Seoul National University*** 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Masters (2013)
+***Seoul National University, Masters of  EECS***
 
-***Korea Advanced Science Institue of Science and Technology*** 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bachelors (2011)
+***Korea Advanced Science Institue of Science and Technology, Bachelors of EE***
