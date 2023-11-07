@@ -4,7 +4,7 @@ permalink: /
 ---
 ## About Me
 ----
-Hi, I am a senior research scientiest at **NVIDIA PhysX/Omniverse**. \\
+Hi, I am a senior research scientist at **NVIDIA PhysX/Omniverse**. \\
 I did PhD in computer science at the **University of Waterloo**, advised by [**Dr. Christopher Batty**]({{"http://cs.uwaterloo.ca/~c2batty"}}). \\
 My research interest is computer graphics
 <i class="fas fa-arrow-alt-circle-right"></i>
